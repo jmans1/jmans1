@@ -1,6 +1,6 @@
 <!-- Profil Görseli -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/KullanıcıAdı" width="150" alt="Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/jmans1" width="150" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm name Emir </h1>
