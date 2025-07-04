@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/KullanıcıAdı" width="150" alt="Profile Picture"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm name </h1>
+<h1 align="center">Hi 👋, I'm name Emir </h1>
 
 <!--
 **jmans1/jmans1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
