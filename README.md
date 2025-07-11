@@ -3,9 +3,9 @@
   <img src="https://avatars.githubusercontent.com/jmans1" width="150" alt="Profile Picture"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm name Emir </h1>
+<h1 align="center">Hi 👋, I'm Emir </h1>
 
-<!--
+!--
 **jmans1/jmans1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
